@@ -2,7 +2,7 @@
 
 You may know me as `ilham`. Web developer from 🇮🇩.
 
-Mainly use `JavaScript` to build websites.
+Mainly use `PHP` and `JavaScript` to build websites.
 
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=ilham76c&show_icons=true&theme=nightowl&locale=en" alt="ilham76c" /></p>
