@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Moh. Ilham Burhanuddin
 
-You may know me as `ilham`. Web developer from 🇮🇩.
+You may know me as `ilham`. Web developer from <span title="Indonesia">🇮🇩</span>.
 
 Mainly use `PHP` and `JavaScript` to build websites.
 
