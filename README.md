@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Moh. Ilham Burhanuddin
+# 👋 Hi, I'm Moh. Ilham B.
 
 You may know me as `ilham`. Web developer from <span title="Indonesia">🇮🇩</span>.
 
