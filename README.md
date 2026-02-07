@@ -17,12 +17,12 @@
 ---
 
 ## 📊 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ilham76c&layout=compact&theme=github_dark&langs_count=10)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ilham76c&layout=compact&theme=github_dark&count_private=true)
 
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ilham76c&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ilham76c&show_icons=true&theme=github_dark&count_private=true)
 
 ---
 
