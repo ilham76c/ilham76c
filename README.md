@@ -22,7 +22,7 @@
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ilham76c&show_icons=true&theme=github_dark&count_private=true)
+![GitHub Stats](https://github-readme-stats-tau-pearl-47.vercel.app/api?username=ilham76c&count_private=true)
 
 ---
 
