@@ -21,8 +21,8 @@
 
 ---
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats-tau-pearl-47.vercel.app/api?username=ilham76c&count_private=true)
+<!-- ## 📈 GitHub Stats -->
+<!-- ![GitHub Stats](https://github-readme-stats-tau-pearl-47.vercel.app/api?username=ilham76c&count_private=true) -->
 
 ---
 
