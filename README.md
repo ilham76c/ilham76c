@@ -15,10 +15,10 @@
 - **Others**: Cronjob, Real-time Dashboard, System Integration
 
 ---
-
+<!--
 ## 📊 Most Used Languages
 ![Top Langs](https://github-readme-stats-tau-pearl-47.vercel.app/api/top-langs/?username=ilham76c&count_private=true)
-
+-->
 ---
 
 <!-- ## 📈 GitHub Stats -->
