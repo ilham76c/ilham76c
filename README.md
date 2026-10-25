@@ -8,7 +8,7 @@
 
 ## 🧠 Tech Stack
 - **Backend**: NodeJS, FastAPI, PHP (Laravel, CodeIgniter)
-- **Frontend**: VueJS, ReactJS
+- **Frontend**: VueJS, ReactJS, NextJS
 - **Database**: PostgreSQL, MySQL
 - **Architecture**: Microservices, Monolith
 - **Integration**: REST API, SAP RFC, Message Broker
